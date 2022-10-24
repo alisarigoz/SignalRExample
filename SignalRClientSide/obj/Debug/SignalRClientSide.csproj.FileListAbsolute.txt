@@ -1,0 +1,16 @@
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\SignalRClientSide.exe.config
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\SignalRClientSide.exe
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\SignalRClientSide.pdb
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\Newtonsoft.Json.dll
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\testprojs\TestSignalR\SignalRClientSide\bin\Debug\Newtonsoft.Json.xml
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.csprojAssemblyReference.cache
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.Form1.resources
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.Properties.Resources.resources
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.csproj.GenerateResource.cache
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.csproj.CoreCompileInputs.cache
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.csproj.CopyComplete
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.exe
+C:\testprojs\TestSignalR\SignalRClientSide\obj\Debug\SignalRClientSide.pdb
